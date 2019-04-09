@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="net_error">服务器不稳定</string>
+    <string name="empty">还没有数据哦</string>
+    <string name="loading">请稍候...</string>
+    <string name="reload">重新尝试</string>
+    <string name="no_net">请检查网络</string>
+</resources>
