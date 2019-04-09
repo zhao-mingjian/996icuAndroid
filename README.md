@@ -7,7 +7,7 @@
 [跳转下载](https://fir.im/996icu)
 
 <a href="https://fir.im/996icu">
-    <img width="200" height=“200” src="https://github.com/zhao-mingjian/996icuAndroid/blob/master/app/src/main/res/drawable-xxhdpi/app_icon.png?raw=true"></img>
+    <img width="200" height=“200” src="https://github.com/zhao-mingjian/996icuAndroid/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"></img>
 </a>
 
 ## Screenshots
