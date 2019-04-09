@@ -12,6 +12,7 @@
 
 ## Screenshots
 
-<img width="173" height=“274” src="https://github.com/zhao-mingjian/qvod/blob/master/app/Screenshot_2017-04-21-10-09-06-848_com.zmj.qvod.png"></img>
+<img width="173" height=“274” src="https://github.com/zhao-mingjian/996icuAndroid/tree/master/app/Screenshot_2019-04-09-01.icu.png"></img>
+<img width="173" height=“274” src="https://github.com/zhao-mingjian/996icuAndroid/tree/master/app/Screenshot_2019-04-09-02.icu.png"></img>
 
 ## End
