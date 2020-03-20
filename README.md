@@ -4,7 +4,7 @@
 
 ### Download
 
-[跳转下载](https://fir.im/996icu)
+[跳转下载](http://d.6short.com/996icu)
 
 <a href="https://fir.im/996icu">
     <img width="200" height=“200” src="https://github.com/zhao-mingjian/996icuAndroid/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"></img>
